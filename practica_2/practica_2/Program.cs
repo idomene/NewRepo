@@ -14,7 +14,7 @@ namespace practica_2
             // Práctica nº 2
             // --------------------------------------------
 
-            //Pido Cadena
+            //Pido Cadena1
             //Usuario mete cadena
             //Convierto en char
             //pido letra
